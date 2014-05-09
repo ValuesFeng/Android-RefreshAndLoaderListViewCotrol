@@ -13,3 +13,25 @@ Android-RefreshAndLoaderListViewCotrol
     listView.setAutoLoadMore(!listView.isAutoLoadMore());
 
 
+下拉刷新：
+![下拉刷新](http://1.valuesgithubimages.sinaapp.com/images/1.png)
+
+
+
+
+松开刷新：
+![松开刷新](http://1.valuesgithubimages.sinaapp.com/images/2.png)
+
+
+
+刷新中：
+![刷新中](http://1.valuesgithubimages.sinaapp.com/images/3.png)
+
+
+
+加载更多：
+![加载更多](http://1.valuesgithubimages.sinaapp.com/images/4.png)
+
+
+加载中：
+![加载中](http://1.valuesgithubimages.sinaapp.com/images/5.png)
